@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="tickView">
+        <attr name="isSuccess" format="boolean" />
+        <attr name="paintWidth" format="dimension" />
+        <attr name="paintColor" format="reference|color" />
+    </declare-styleable>
+</resources>
