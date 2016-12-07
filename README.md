@@ -1,3 +1,8 @@
 # SixBitPayWidget
 
-<img src="ScreenShot/GIF_success.gif" width="400px" /><img src="ScreenShot/GIF_fail.gif" width="400px" />
+仿支付宝六位密码输入控件
+##界面截图
+###返回成功
+![Image](ScreenShot/GIF_success.gif) 
+###返回失败
+![Image](ScreenShot/GIF_fail.gif)
